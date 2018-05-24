@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">人员注册</string>
+
+    <string name="action_about">关于</string>
+
+    <string name="lblName">您的姓名： </string>
+    <string name="lblAge">年龄： </string>
+    <string name="lblAddress">地址： </string>
+    <string name="lblCity">城市/城镇： </string>
+    <string name="lblState">状态： </string>
+
+    <string name="name">输入你的名字</string>
+    <string name="age">输入你的年龄</string>
+    <string name="address">输入你的地址</string>
+    <string name="city">进入你的城市</string>
+    <string name="state">输入你的状态</string>
+
+    <string name="btnGravar">记录数据</string>
+    <string name="btnConfirmar">确认数据</string>
+    <string name="btnAlterar">更改数据</string>
+
+    <string name="telaCadastro">人员注册</string>
+    <string name="telaConfirma">确认数据</string>
+
+    <string name="sair">离开</string>
+    <string name="desSair">你真的想戒烟吗？</string>
+    <string name="sim">是的</string>
+    <string name="nao">不</string>
+
+    <string name="sucesso">记录数据!</string>
+
+</resources>

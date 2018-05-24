@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AppSi</string>
+
+    <string name="action_about">Acerca</string>
+
+    <string name="lblName">Nombre: </string>
+    <string name="lblAge">Años: </string>
+    <string name="lblAddress">Dirección: </string>
+    <string name="lblCity">Ciudad: </string>
+    <string name="lblState">Estado: </string>
+
+    <string name="name">Ingrese su nombre</string>
+    <string name="age">Ingrese su edad</string>
+    <string name="address">Ingrese su dirección</string>
+    <string name="city">Ingrese su ciudad</string>
+    <string name="state">Ingrese su estado</string>
+
+    <string name="btnGravar">Registrar datos</string>
+    <string name="btnConfirmar">Confirmar datos</string>
+    <string name="btnAlterar">Cambiar datos</string>
+
+    <string name="telaCadastro">Registro de persona</string>
+    <string name="telaConfirma">Confirmación de datos</string>
+
+    <string name="sair">Salir</string>
+    <string name="desSair">¿Deseas realmente salir?</string>
+    <string name="sim">SÍ</string>
+    <string name="nao">NO</string>
+
+    <string name="sucesso">Datos grabados!</string>
+
+</resources>

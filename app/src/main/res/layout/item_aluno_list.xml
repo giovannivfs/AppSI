@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:scaleType="fitCenter"
+        android:id="@+id/imgAluno"
+        android:src="@drawable/giovanni"
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="3dp"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/alunoNome"
+            android:layout_marginBottom="5dp"
+            android:text="Giovanni Vinicius Souza de Figueiredo"
+            android:textStyle="bold"
+            android:textColor="@color/preto"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/alunoRa"
+            android:text="Ra: 00178826"
+            android:textColor="@color/cinza"/>
+    </LinearLayout>
+
+</LinearLayout>

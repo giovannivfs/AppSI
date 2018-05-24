@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AppSi</string>
+
+    <string name="action_about">About</string>
+
+    <string name="lblName">Name: </string>
+    <string name="lblAge">Age: </string>
+    <string name="lblAddress">Address: </string>
+    <string name="lblCity">City: </string>
+    <string name="lblState">State: </string>
+
+    <string name="name">Enter your name</string>
+    <string name="age">Enter your age</string>
+    <string name="address">Enter your address</string>
+    <string name="city">Enter your city</string>
+    <string name="state">Enter your state</string>
+
+    <string name="btnGravar">Record Data</string>
+    <string name="btnConfirmar">Confirm Data</string>
+    <string name="btnAlterar">Change data</string>
+
+    <string name="telaCadastro">Person Registration</string>
+    <string name="telaConfirma">Confirmation of data</string>
+
+    <string name="sair">Leave</string>
+    <string name="desSair">Do you really want to quit?</string>
+    <string name="sim">YES</string>
+    <string name="nao">NO</string>
+
+    <string name="sucesso">Recorded Data!</string>
+</resources>

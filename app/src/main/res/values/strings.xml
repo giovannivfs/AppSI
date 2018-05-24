@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AppSi</string>
+
+    <string name="action_about">Sobre</string>
+
+    <string name="lblName">Nome: </string>
+    <string name="lblAge">Idade: </string>
+    <string name="lblAddress">Endereço: </string>
+    <string name="lblCity">Cidade: </string>
+    <string name="lblState">Estado: </string>
+
+    <string name="name">Digite seu nome</string>
+    <string name="age">Digite sua idade</string>
+    <string name="address">Digite seu endereço</string>
+    <string name="city">Digite sua cidade</string>
+    <string name="state">Digite seu estado</string>
+
+    <string name="btnGravar">Gravar Dados</string>
+    <string name="btnConfirmar">Confirmar Dados</string>
+    <string name="btnAlterar">Alterar Dados</string>
+
+    <string name="telaCadastro">Cadastro de Pessoa</string>
+    <string name="telaConfirma">Confirmação de dados</string>
+    <string name="title_activity_capture">capture</string>
+
+    <string name="sair">Sair</string>
+    <string name="desSair">Deseja Realmente Sair?</string>
+    <string name="sim">SIM</string>
+    <string name="nao">NÃO</string>
+
+
+    <!--
+        Tela Sobre
+    -->
+    <string name="sucesso">Dados Gravados!</string>
+
+    <string name="apresentacao">Trabalho realizado na disciplina de Tópicos especiais em sistemas de informação
+        sob orientação do professor Carlos Pelegrin</string>
+
+    <string name="nomeRoger">Roger Antonio de Souza</string>
+    <string name="raRoger">Ra: 00172257</string>
+    <string name="nomeGiovanni">Giovanni Vinicius Souza de Figueiredo</string>
+    <string name="raGiovanni">Ra: 00178826</string>
+    <string name="nomeWerik">Werik Lemos Relk</string>
+    <string name="raWerik">Ra: 00183905</string>
+
+</resources>
